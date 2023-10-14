@@ -1,0 +1,7 @@
+D:\Term 3\ساختمان داده\تمرین\PrimeNumber\PrimeNumber\obj\Debug\PrimeNumber.csprojAssemblyReference.cache
+D:\Term 3\ساختمان داده\تمرین\PrimeNumber\PrimeNumber\obj\Debug\PrimeNumber.csproj.CoreCompileInputs.cache
+D:\Term 3\ساختمان داده\تمرین\PrimeNumber\PrimeNumber\bin\Debug\PrimeNumber.exe.config
+D:\Term 3\ساختمان داده\تمرین\PrimeNumber\PrimeNumber\bin\Debug\PrimeNumber.exe
+D:\Term 3\ساختمان داده\تمرین\PrimeNumber\PrimeNumber\bin\Debug\PrimeNumber.pdb
+D:\Term 3\ساختمان داده\تمرین\PrimeNumber\PrimeNumber\obj\Debug\PrimeNumber.exe
+D:\Term 3\ساختمان داده\تمرین\PrimeNumber\PrimeNumber\obj\Debug\PrimeNumber.pdb
